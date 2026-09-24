@@ -1,4 +1,4 @@
-# Hi there, I'm Dimitris Stathoulias 👋
+# Hi, I'm Dimitris Stathoulias
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dstathoulias)
