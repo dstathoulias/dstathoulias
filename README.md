@@ -1,14 +1,10 @@
 # Hi, I'm Dimitris Stathoulias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dstathoulias)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stath.jim2000@gmail.com)
-
 I'm a **Software Engineer** specializing in **distributed microservices, cloud systems, real-time interactive applications, and low-level systems security**. School of Electrical & Computer Engineering (ECE) at the **Technical University of Crete (TUC)**.
 
 ---
 
-## 🛠️ Technical Stack & Skills
+## Technical Stack & Skills
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,7 +41,7 @@ I'm a **Software Engineer** specializing in **distributed microservices, cloud s
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## Featured Projects Portfolio
 
 | Project | Domain | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
@@ -56,16 +52,9 @@ I'm a **Software Engineer** specializing in **distributed microservices, cloud s
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dstathoulias&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstathoulias&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
-
-## 📫 Get In Touch
-
-- **Email:** [stath.jim2000@gmail.com](mailto:stath.jim2000@gmail.com)  
-- **GitHub:** [@dstathoulias](https://github.com/dstathoulias)  
